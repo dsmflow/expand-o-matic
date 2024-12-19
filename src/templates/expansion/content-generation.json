@@ -1,0 +1,28 @@
+{
+  "id": "content-generation",
+  "name": "Content Generation",
+  "category": "expansion",
+  "mode": "content",
+  "content": {
+    "purpose": "Transform brief topic ideas into comprehensive, well-structured content",
+    "instructions": [
+      "Create an engaging introduction that hooks the reader",
+      "Develop at least 3 main points or sections",
+      "Include relevant examples or case studies",
+      "Maintain a consistent tone and style",
+      "Add a compelling conclusion that ties everything together",
+      "Use transition sentences between sections"
+    ],
+    "sections": [
+      "introduction",
+      "main_points",
+      "examples",
+      "conclusion"
+    ],
+    "variables": [
+      "topic",
+      "target_length",
+      "tone"
+    ]
+  }
+}

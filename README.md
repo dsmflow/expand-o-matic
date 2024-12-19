@@ -50,6 +50,81 @@ npm run dev
 - Click on "New codespace" to launch a new Codespace environment.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
 
+## Prompt Categories
+
+## Expansion Prompts
+Small input -> Large output.
+Content generation and elaboration - taking a small input and creating more content from it.
+
+Example Use Cases:
+- Content Generation
+- Explanation
+- Learning
+- Ideation
+- Story Writing
+- Code Generation
+- Documentation
+
+## Compression Prompts
+Distills and summarizes information.
+
+Example Use Cases:
+- Text Summarization
+- Key Points Extraction
+- Abstract Generation
+- Data Condensation
+- Report Synthesis
+- Code Documentation Summary
+- Meeting Minutes
+
+## Conversion Prompts
+Transforms between formats.
+
+Example Use Cases:
+- Format Translation
+- Code Language Conversion
+- Data Structure Transformation
+- Document Format Changes
+- Style Transfer
+- Language Translation
+- Media Format Conversion
+
+## Seeker Prompts
+Finds and retrieves specific information.
+
+Example Use Cases:
+- Information Lookup
+- Data Extraction
+- Research Assistance
+- Knowledge Mining
+- Reference Finding
+- Fact Checking
+- Source Verification
+
+## Action Prompts
+Executes commands and workflows.
+
+Example Use Cases:
+- Task Automation
+- Command Execution
+- Workflow Management
+- System Integration
+- Process Orchestration
+- Batch Operations
+- Script Generation
+
+## Reasoning Prompts
+Provides judgment, conclusions, insights.
+
+Example Use Cases:
+- Analysis
+- Decision Making
+- Problem Solving
+- Critical Thinking
+- Pattern Recognition
+- Recommendation Generation
+- Risk Assessment
+
 ## What technologies are used for this project?
 
 This project is built with .
